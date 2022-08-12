@@ -1,1 +1,1 @@
-# Thuc_Hanh_Contest
+Contest_1_Thay_Chau
